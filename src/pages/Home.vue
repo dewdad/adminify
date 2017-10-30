@@ -1,7 +1,7 @@
 <template lang="pug">
 .text-center
   v-card
-    v-card-text Slient is Gold ?
+    v-card-text Start Building?
 </template>
 
 <script>
