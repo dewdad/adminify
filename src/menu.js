@@ -1,14 +1,10 @@
 export default [
   { 'header': 'Admin' },
   { 'href': '/', 'title': 'Home', 'icon': 'home' },
-  { 'href': '/crud/types', 'title': 'Types', 'icon': 'view_list' },
-  { 'href': '/crud/posts', 'title': 'Posts', 'icon': 'view_list' },
-  { 'href': '/crud/posts/create', 'title': 'Create Post', 'icon': 'note_add' },
-
-  { 'href': '/crud/comments', 'title': 'Comments', 'icon': 'view_list' },
+  { 'href': '/crud/types', 'title': 'App Builder', 'icon': 'view_list' },
+  { 'href': '/crud/posts', 'title': 'Email Builder', 'icon': 'view_list' },
+  { 'href': '/crud/posts/create', 'title': 'Documents', 'icon': 'note_add' },
   { 'href': '/crud/users', 'title': 'Users', 'icon': 'people' },
-
-  { 'href': '/chat', 'title': 'Chat', 'icon': 'chat' },
   {
     'title': 'Pages',
     'icon': 'domain',
